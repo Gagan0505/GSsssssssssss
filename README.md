@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gagan Bindal
-- 👀 I’m interested Computer Science
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on app/web development projects
 - 📫 Reach me @ gaganbindal2002@gmail.com
